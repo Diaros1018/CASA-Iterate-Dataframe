@@ -4,9 +4,11 @@ Go over the tutorial on how to iterate Pandas dataframes using multiple methods 
 
 [https://www.geeksforgeeks.org/different-ways-to-iterate-over-rows-in-pandas-dataframe/](https://www.geeksforgeeks.org/different-ways-to-iterate-over-rows-in-pandas-dataframe/).
 
-Then implement a program that iterates the data inside of **big-mac-full-index.csv** on **casa_iterate_df.py** using the following methods from the tutorial:
+Then implement a program that iterates the data inside of **big-mac-full-index.csv** on **casa_iterate_df.py** using the following method from the tutorial:
 
-1. Method 4: Using iterrows() method
-2. Method 6: Using apply() method
+1. Method 1: Using iterrows() method
+   * Your code should print country name and the dollar price for every row of the provided dataframe.
+2. EXTRA CREDIT: Method 3: Using apply() method 
+   * Your code should print country name and the dollar price for every row of the provided dataframe.
 
-*This repository does not have auto-grading enabled. Please make sure you commit and push the latest code into GitHub.*
+When you are finished, upload your casa_iterate_df.py file to Blackboard.
